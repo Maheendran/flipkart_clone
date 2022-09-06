@@ -1,0 +1,31 @@
+.slider_main{
+    margin: auto;
+    width: 98%;
+    height: 100%;
+   overflow-y: hidden;
+   padding: 1rem;
+   padding-top: 3rem;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.slide_main{
+    width: 15rem;
+    height: 100%;
+    margin: auto;
+
+}
+.slide_div{
+    margin: auto;
+    width: 14rem;
+    height: 18rem;
+  
+}
+.slide_bottom{
+    margin-top: 1rem;
+   text-align: center;
+}
+.slide_div img{
+  width: 100%;
+  height: 100%;
+  
+}
+/* /////////////////////////////////////// */

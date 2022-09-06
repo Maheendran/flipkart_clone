@@ -1,0 +1,69 @@
+.dummy_div{
+    width: 100%;
+    height: 65px;
+}
+.Login_container{
+    padding-top: 1rem;
+    margin: auto;
+    width: 50%;
+    height: 80vh;
+    display: flex;
+}
+.left_login_div{
+    width: 40%;
+    height: 100%;
+    background-color: 
+    #2874f0;
+color: white;
+text-align: center;
+align-items: center;
+padding: 1rem 1rem 0rem 1rem;
+}
+.left_login_div img{
+    width: 70%;
+    margin-top: 5rem;
+}
+.right_login_div{
+    margin: auto;
+display: block;
+width: 70%;
+padding: 0.5rem;
+text-align: center;
+}
+.right_login_div input{
+    width: 90%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid;
+   
+}
+.right_login_div input:focus {
+    width: 80%;
+    font-size: 1.5rem;
+    border-bottom: 3px solid #2874f0;
+}
+.signuplogin_btn{
+    width: 90%;
+ padding: 1rem;
+ background-color: #fb641b;
+ color: white;
+ font-weight: 600;
+ font-size: 1.2rem;
+ border: none;
+}
+.togglebutton{
+    width: 90%;
+ padding: 1rem;
+ color: white;
+ font-weight: 600;
+ font-size: 1.2rem;
+ border: none;  
+ color: #2874f0;
+ margin-top: 1rem;
+}
+#emaillabel{
+    text-align: left;
+    color: grey;
+}

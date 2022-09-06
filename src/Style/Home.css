@@ -1,0 +1,26 @@
+.home_bottom_descrp{
+    width: 95%;
+    margin: auto;
+    font-family: sans-serif;
+    color: grey;
+    margin-top: 2rem;
+    }
+    .home_bottom_descrp p{
+        font-size: 0.8rem;
+    }
+    .loading_img{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .small_banner{
+        padding-top: 2rem;
+        width: 96%;
+        margin: auto;
+        padding-bottom: 2rem;
+       object-fit: cover;
+    }
+    .small_banner img{
+        width: 100%;
+        object-fit: fill;
+    }

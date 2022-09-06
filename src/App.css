@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Poppins:ital,wght@0,400;0,500;1,400;1,500&family=Righteous&family=Roboto+Mono:wght@500&family=Russo+One&family=Satisfy&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+::-webkit-scrollbar{
+  width: 10px;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 20px;
+
+  background-color: #346fe2;
+}
+body{
+  font-family: sans-serif;
+}
