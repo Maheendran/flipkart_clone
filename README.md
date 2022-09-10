@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Adidas Clone</h1>
+<h1 align="center" id="title">Flipkart Clone</h1>
 
 <p align="center"><img src="https://i.postimg.cc/RZssLMJ2/flipkart.png" alt="project-image"></p>
 
