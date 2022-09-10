@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/RZssLMJ2/flipkart.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/RZssLMJ2/flipkart.png" alt="project-screenshot" width="100%" height="400/">
 
 <img src="https://i.postimg.cc/NMMQPGdT/React-App-Personal-Microsoft-Edge-09-09-2022-17-22-40.png" alt="project-screenshot" width="400" height="400/">
 
